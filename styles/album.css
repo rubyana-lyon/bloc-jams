@@ -4,6 +4,7 @@ body.album {
     background-attachment: fixed;
     background-position: center center;
     background-size: cover;
+    padding-bottom: 200px;
 }
 
 .album-cover-art {
@@ -49,6 +50,7 @@ body.album {
 
 .song-item-number {
 width: 5%;
+min-width: 30px;
 }
 
 .song-item-title {
